@@ -1,4 +1,4 @@
-### Triage Des Mots
+### Renseignements Élèves
 
 #### Projet Scolaire
 - Utilisant `Python` et `PyQT5` pour construire un logiciel avec une interface graphique à partir d'une série nommée [serie](SERIE.pdf)
